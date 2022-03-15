@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredericlmx
-- 👀 I’m team member of Talabat Growth, Incentive experience
+- 👀 I’m team member of Incentive Discovery, Martech Domain, Growth Trive
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Talabat initiative
 - 📫 How to reach me frederic.lemieux@talabat.com
